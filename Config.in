@@ -1,0 +1,3 @@
+config RV_TARGET_RTK
+	bool "rtk"
+	default y
